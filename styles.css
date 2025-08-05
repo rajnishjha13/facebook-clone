@@ -8,7 +8,7 @@ body {
   background-color: #f0f2f5;
   position: relative;
   height: 115vh;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 #container {
   display: flex;
@@ -22,16 +22,15 @@ body {
   margin-right: 30vw;
 }
 #facebook {
-  height: 70px;
-  width: 198px;
-  margin: -20px;
+  height: auto;
+  width: 200px;
 }
 
 #recent-logins > #title {
   font-size: 28px;
   font-weight: normal;
   line-height: 32px;
-  margin-top: 20px;
+  margin-top: 30px;
   margin-bottom: 5px;
 }
 
