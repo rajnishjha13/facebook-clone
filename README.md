@@ -1,7 +1,3 @@
-# 🚀 Facebook Clone - Signup Page
-
-A modern, responsive Facebook signup page replica built with **pure HTML and CSS**. Perfect for learning web design fundamentals and modern UI/UX patterns!
-
 ## 📋 Overview
 
 This project is a pixel-perfect recreation of Facebook's signup interface. It's designed as an educational resource to demonstrate core HTML5 structure and advanced CSS styling techniques. Whether you're a beginner learning web development or someone looking to master layout techniques, this project provides a real-world example of building a professional signup experience.
